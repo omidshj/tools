@@ -12,6 +12,7 @@ my development tools
 * GitHub
 * GitLab
 * Trello
+* Git
 
 ## Laravel
 
