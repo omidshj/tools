@@ -6,6 +6,13 @@ my development tools
 * [Linux Mint](https://www.linuxmint.com/) - on my develop pc
 * [elementary OS](https://elementary.io/) - on my laptop
 
+## Tools
+
+* Visual Studio Code
+* GitHub
+* GitLab
+* Trello
+
 ## Laravel
 
 ## React
@@ -28,28 +35,16 @@ my development tools
 
 
 ## wish to learn
+* Docker
+* kobernites
+* MongoDB
+* Node.js
+* Jekyll
 
-
-
-
-trello
-vscode
-github
-gitlab
-
-
-react
-
-ui
 webpack
 materializecss
 mdc
 tailwind
 sass
 
-whant to learn
-docker
-kobernites
-mongo
-nodejs
-jekyll
+
