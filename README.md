@@ -6,6 +6,10 @@ my development tools
 * [Linux Mint](https://www.linuxmint.com/) - on my develop pc
 * [elementary OS](https://elementary.io/) - on my laptop
 
+## Laravel
+
+## React
+
 ## WordPress
 
 * [WooCommerce](https://woocommerce.com/)
@@ -17,8 +21,6 @@ my development tools
 * Regenerate Thumbnails
 * User Role Editor
 * Yet Another Related Posts Plugin
-
-## Laravel
 
 ## Database
 
