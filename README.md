@@ -9,6 +9,14 @@ my development tools
 ## WordPress
 
 * [WooCommerce](https://woocommerce.com/)
+* Menu Icons
+* Contact Form Submissions
+* Google Analytics Dashboard for WP (GADWP)
+* Google XML Sitemaps
+* Page Builder by SiteOrigin
+* Regenerate Thumbnails
+* User Role Editor
+* Yet Another Related Posts Plugin
 
 ## Laravel
 
