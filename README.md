@@ -18,3 +18,28 @@ my development tools
 
 
 ## wish to learn
+
+
+
+
+trello
+vscode
+github
+gitlab
+
+
+react
+
+ui
+webpack
+materializecss
+mdc
+tailwind
+sass
+
+whant to learn
+docker
+kobernites
+mongo
+nodejs
+jekyll
