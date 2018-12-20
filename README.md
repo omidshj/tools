@@ -6,9 +6,9 @@ my development tools
 * [Linux Mint](https://www.linuxmint.com/) - on my develop pc
 * [elementary OS](https://elementary.io/) - on my laptop
 
-## Tools
+## Visual Studio Code
 
-* Visual Studio Code
+## Tools
 * GitHub
 * GitLab
 * Trello
